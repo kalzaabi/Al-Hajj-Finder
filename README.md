@@ -18,3 +18,5 @@ We learned that biometrics can solve many problems, because it will identify peo
 What's next for Hajj Finder
 
 We will add reports to show in map where are the spots that people get missing, and how to prevent people from getting missing in these spots. Moreover, we will let the officer identify the pilgrim from the fingerprint. 
+
+
